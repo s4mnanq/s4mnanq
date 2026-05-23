@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Samnang Thy
+## 👋 Hi, I'm Thy Samnang 
 
 💻 Computer Science Student at Royal University of Phnom Penh  
 📱 Flutter & Mobile App Developer  
