@@ -12,6 +12,7 @@
 - REST API Integration
 - Firebase
 - Clean Architecture
+- Laravel & Php
 
 ### 🎯 Goals
 - Become a Full-Stack Mobile App Developer
