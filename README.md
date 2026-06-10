@@ -17,8 +17,8 @@
 - Build modern mobile applications
 
 ### 📫 Contact
-📧 samnangthy855@gmail.com
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samnangthy855@gmail.com)
+samnangthy855@gmail.com
 
 
 ### 💻 Tech Stack
