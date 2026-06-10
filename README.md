@@ -10,14 +10,11 @@
 - Flutter & Dart
 - GetX
 - REST API Integration
-- Firebase
-- Clean Architecture
 - Laravel & Php
 
 ### 🎯 Goals
 - Become a Full-Stack Mobile App Developer
 - Build modern mobile applications
-- Improve frontend and backend skills
 
 ### 📫 Contact
 📧 samnangthy855@gmail.com
