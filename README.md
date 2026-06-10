@@ -2,7 +2,7 @@
 <tr>
 <td valign="top" width="55%">
 
-## 👋 Hi, I'm Thy Samnang
+## 👋 Hi, I'm ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&width=435&lines=Hi%2C+I'm+Thy+Samnang+%F0%9F%91%8B;Flutter+%26+Mobile+Developer;CS+Student+%40+RUPP)
 💻 CS Student at Royal University of Phnom Penh
 📱 Flutter & Mobile App Developer
 ☕ C++, Java, HTML, Dart
