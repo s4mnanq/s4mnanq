@@ -18,9 +18,8 @@
 
 ### 📫 Contact
 📧 samnangthy855@gmail.com
-
-### 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samnangthy855@gmail.com)
+
 
 ### 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
