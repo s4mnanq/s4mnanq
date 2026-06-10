@@ -32,10 +32,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=s4mnanq&theme=dark&hide_border=true&include_all_commits=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=s4mnanq&theme=dark&hide_border=true&layout=compact)
-
-![](https://streak-stats.demolab.com/?user=s4mnanq&theme=dark&hide_border=true)
-
-![](https://komarev.com/ghpvc/?username=s4mnanq&color=blue)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=s4mnanq&theme=dark&hide_border=true&include_all_commits=true" height="140" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=s4mnanq&theme=dark&hide_border=true&layout=compact" height="140" />
+  <img src="https://streak-stats.demolab.com/?user=s4mnanq&theme=dark&hide_border=true" height="140" />
+</div>
