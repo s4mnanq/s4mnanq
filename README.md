@@ -21,7 +21,7 @@
 ### 📫 Contact
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samnangthy855@gmail.com) samnangthy855@gmail.com <br>
 [![Phone](https://img.shields.io/badge/Phone-25D366?logo=phone&logoColor=white)](tel:+855xxxxxxxxx)
-+855 xx xxx xxx
++855 88 418 1734
 ### 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
