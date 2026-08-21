@@ -12,7 +12,6 @@
 ### 🌱 Currently Learning
 - Flutter & Dart · GetX
 - REST API Integration
-- Laravel & PHP
 
 ### 🎯 Goals
 - Full-Stack Mobile App Developer
